@@ -1,2 +1,2 @@
-# Executor
-Executor go to release
+# Executor PC
+Executor go to releases
